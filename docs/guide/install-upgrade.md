@@ -9,8 +9,10 @@ Change the LUYA versions for each modules and LUYA itself in your composer.json
 ```json
 "require": {
     "luyadev/luya-core" : "^1.0",
-    "luyadev/luya-module-cms" : "^1.0",
-    "luyadev/luya-module-admin" : "^1.2"
+    "luyadev/luya-module-admin" : "^2.0",
+    "luyadev/luya-module-cms" : "^2.0",
+    "luyadev/luya-bootstrap3" : "^1.0",
+    "luyadev/luya-generic" : "^1.0",
 }
 ```
 
